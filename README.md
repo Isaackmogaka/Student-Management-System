@@ -107,7 +107,6 @@ This will build the Docker image and run the Django application and the PostgreS
 
 ## **Video Links**
 Watch the videos to learn in proper way.
-https://youtu.be/mM6vMMLYJHY
 
 
 ## **Testing**
